@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+#title{
+  background-color: white;
+  min-height: 5em;
+}
+#title h1{
+color:#044784;
+  font-family:'Merienda', cursive;
+   text-align: center;
+}
+#banner{
+  background-image: url(food_banner.jpg);
+  clear:both;
+}
+#menu{
+  text-decoration: none;
+    min-height: 12vh;
+    color: white;
+    
+    
+}
+.menuItem{
+  margin: 0px 2em 0 10em;
+  line-height: 5em;
+  color: white;
+  text-align: center;
+ 
+}
+
+#banner h2{
+  color:#FFE48D;
+  font-family:'Merienda', cursive;
+  text-align: center;
+  padding:5em auto;
+}
+
+
+
+#przycisk h1{
+  text-align: center;
+}
+.row1 table{
+  text-align: center;
+ 
+  
+  
+}
+
+.row1{
+  text-align: center;
+}
+
+.row1 button{
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  height:50px ;
+  width: 120px;
+  font-size: x-large;
+
+}
+.row{
+  text-align: center;
+}
+
+#banner{
+ background-image: url(tlo.jpg);
+ clear: both;
+ text-align: center;
+}
+
+#menu a{
+  text-decoration: none;
+  font-size: large;
+  
+}
+#menu a:hover{
+  color: black;
+}
+
+#menu button{
+  font-size: large;
+}
+
+.row4 {
+  text-align: center;
+  
+}
+
+
+
+.row5{
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+}
+
+
